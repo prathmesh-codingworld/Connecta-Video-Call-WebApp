@@ -35,8 +35,8 @@ export default function LandingPage() {
           <p
             role="link"
             tabIndex={0}
-            onClick={() => router("/guest")}
-            onKeyDown={onKey("/guest")}
+            onClick={() => router("/abcd123")}
+            onKeyDown={onKey("/abcd123")}
           >
             Join as Guest
           </p>

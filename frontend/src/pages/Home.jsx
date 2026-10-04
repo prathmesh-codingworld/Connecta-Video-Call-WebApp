@@ -38,7 +38,7 @@ function HomeComponent() {
 
           <Link to="/home" className="connecta-auth-logo" aria-label="CONNECTA">
             <img
-              src="/public/ConnectaLogo.png"
+              src="/ConnectaLogo.png"
               alt="CONNECTA"
               className="connecta-logo-image"
             />
